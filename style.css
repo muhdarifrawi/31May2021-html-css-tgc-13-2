@@ -1,0 +1,32 @@
+body{
+    margin:0;
+}
+
+#navbar{
+    height:20px;
+    background:lightblue;
+}
+
+ul{
+    margin:0;
+    list-style-type:none;
+    display:flex;
+}
+li{
+    margin-left:30px;
+    font-size:20pt; 
+}
+
+#section-1{
+    height:100vh;
+    background-color:blue;
+    background-image:url("images/git-image.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#section-2{
+    height:100vh;
+    background-color:purple;
+    display:flex;
+}
